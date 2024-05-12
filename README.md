@@ -93,12 +93,12 @@
 
 ###
 
-<h1 align="center">📊 Contribution Graph 📊</h1>
+<h1 align="center">📊 Contribution 📊</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lankryf&radius=16&theme=monokai&area=true&order=5&hide_title=true" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lankryf&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
